@@ -1,0 +1,5 @@
+1.auto
+2.register
+3.static(local)
+static(global)
+4.extern
